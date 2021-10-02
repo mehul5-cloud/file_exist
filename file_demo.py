@@ -2,7 +2,7 @@ def add(x,y):
     print(x+y)
 
 def sub(a,b):
-    rint(a-b)
+    print(a-b)
 
 add(2,5)
 
